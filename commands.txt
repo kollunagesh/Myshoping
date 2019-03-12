@@ -1,0 +1,15 @@
+run the python app in cmd
+python manage.py runserver
+
+creata a folder
+python manage.py startapp products
+
+
+adding new tables
+python manage.py makemigrations
+
+python manage.py migrate
+
+creata a new user in admin 
+python manage.py createsuperuser
+
